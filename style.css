@@ -50,9 +50,10 @@ html{
     align-items: center;
 }
 
-.img-content{
-    width: 30%;
-    height: 30%;
+.content{
+
+    height: 7000px;
+    width: 1000px;
 }
 .footer{
 margin-block-start: 1000px;
